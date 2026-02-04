@@ -74,10 +74,13 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
+<h3 align="center">🚀 LeetCode Progress</h3>
 
+<div align="center">
+  <a href="https://leetcode.com/u/590018857/">
+    <img src="https://leetcard.jacoblin.cool/590018857?theme=dark&font=Fira%20Code&ext=heatmap" alt="Harish's LeetCode Stats" />
+  </a>
+</div>
 ---
 
 <div align="center">
