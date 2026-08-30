@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👨‍💻 B.Tech CSE Student @ UPES | 2nd Year</h3>
+  <h3>👨‍💻 B.Tech CSE Student @ UPES | 3rd Year</h3>
 </div>
 
 <p align="center">
